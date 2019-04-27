@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.8)
+project(Assignment_1)
+
+set(CMAKE_C_STANDARD 99)
+
+set(SOURCE_FILES semi2tab2.c rmtags.c hello6.c uniqc.c convert_comments.c empties.c convert_comments1.c badtime.c bad.c counter.c)
+add_executable(Assignment_1 ${SOURCE_FILES})
+add_executable(semi2tab2 semi2tab2.c)
+add_executable(rmtags rmtags.c)
+add_executable(hello6 hello6.c)
+add_executable(uniqc uniqc.c)
+add_executable(convert_comments convert_comments.c)
+add_executable(convert_comments1 convert_comments1.c)
+add_executable(badtime badtime.c)
+add_executable(empties empties.c)
+add_executable(bad bad.c)
+add_executable(counter counter.c)

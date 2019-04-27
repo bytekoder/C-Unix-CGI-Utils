@@ -1,0 +1,2 @@
+TR=002;dir=i;day=m-f;TI=05:20;stn=middleborough/ lakeville;Line=middleborough
+TR=002;dir=i;day=m-f;TI=05:30;stn=bridgewater;Line=middleborough
